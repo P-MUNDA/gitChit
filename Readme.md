@@ -1,13 +1,13 @@
 # Git Basics Steps
 1. How to git?
-	-$ cd into your project folder.
-	-$ git init
-	-$ git add filename or git add . (Note: . for all)
+	- cd into your project folder.
+	- git init
+	- git add filename or git add . (Note: . for all)
 	// added to staging area for commiting to local rep / remote later
-	_$ git commit -m " Your message in present tense"
-	-$ git log 
+	- git commit -m " Your message in present tense"
+	- git log 
 	// check the commit history with unique hash 
-	-$ git status 
+	- git status 
 	// check the commit history
 
 // at this stage you choose to keep it in local repo with commit history, only you can see it. 
